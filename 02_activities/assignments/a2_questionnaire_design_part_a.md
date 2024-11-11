@@ -17,17 +17,21 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 # Your Changes
 
 The number of your chosen topic: `#`
-
+1
 Describe the purpose of your survey:
-```
+```The purpose of this survey is to identify the reasons behind the high turnover rate among entry- and lower-level employees at the company and gather feedback on what changes could improve employee satisfaction and retention.
 write your answer here...
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
+
 write your answer here...
 ```
-
+**Target Population**: Entry- and lower-level employees at the tech company.
+- **Sampling Frame**: Employee database containing all current employees.
+- **Sampling Units**: Individual employees within entry- and lower-level positions.
+- **Sampling Strategy**: Stratified sampling to ensure responses are collected from various departments.
 Your 5-10 question survey:
 ```
 1. write your question here...
@@ -41,6 +45,18 @@ Your 5-10 question survey:
 9. write your question here... (optional)
 10. write your question here... (optional)
 ```
+
+
+1. How long have you been employed at the company?
+2. What department do you currently work in?
+3. On a scale from 1 to 10, how satisfied are you with your current role?
+4. What factors contribute most to your job satisfaction? (select all that apply)
+5. Have you considered leaving the company in the past 6 months? (Yes/No)
+6. What reasons would most likely prompt you to leave? (open-ended)
+7. What changes would improve your overall job satisfaction? (open-ended)
+8. Do you feel supported by your team leader/manager? (Yes/No)
+9. How often do you receive feedback from your supervisor? (options: weekly, monthly, rarely, never)
+10. What improvements would you suggest to enhance your work experience? (open-ended)
 
 ## Rubric
 

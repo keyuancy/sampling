@@ -27,11 +27,15 @@ Describe your target population, sampling frame, sampling units, and observation
 ```
 
 write your answer here...
-```
-**Target Population**: Entry- and lower-level employees at the tech company.
-- **Sampling Frame**: Employee database containing all current employees.
-- **Sampling Units**: Individual employees within entry- and lower-level positions.
-- **Sampling Strategy**: Stratified sampling to ensure responses are collected from various departments.
+Target Population: Entry- and lower-level employees at the tech company.
+
+Sampling Frame: Employee database containing all current employees.
+
+Sampling Units: Individual employees within entry- and lower-level positions.
+
+Observational Units: The individual employees themselves, as each employee's responses to the survey questions will be observed and analyzed to understand their perspectives on job satisfaction and turnover.
+
+Sampling Strategy: Stratified sampling to ensure responses are collected from various departments.
 Your 5-10 question survey:
 ```
 1. write your question here...

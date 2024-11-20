@@ -4,22 +4,29 @@ For each of the three sources listed, find any and all available documentation f
 
 Sources: - Canadian General Social Survey on Giving, Volunteering, and Participating, 2018 (cycle 33), conducted by Statistics Canada - Canadian Election Study Online Survey, 2019, conducted by Laura Stephenson, Allison Harell, Daniel Rubenson and Peter Loewen - Trophic niche flexibility in Glossophaga soricina: how nectar seeker sneaks an insect snack, conducted by Elizabeth Clare et al.
 
-|                                                       | Canadian General Social Survey on Giving, Volunteering, and Participating, 2018 (cycle 33) | Canadian Election Study Online Survey, 2019 | Trophic niche flexibility in Glossophaga soricina: how nectar seeker sneaks an insect snack |
-|----------------|:--------------------|----------------|---------------------|
-| Sample type                                           |                                                                                            |                                             |                                                                                             |
-| Sample size                                           |                                                                                            |                                             |                                                                                             |
-| Target population                                     |                                                                                            |                                             |                                                                                             |
-| Sampling frame                                        |                                                                                            |                                             |                                                                                             |
-| Survey mode(s)                                        |                                                                                            |                                             |                                                                                             |
-| Timeline                                              |                                                                                            |                                             |                                                                                             |
-| Response rate                                         |                                                                                            |                                             |                                                                                             |
-| Weights                                               |                                                                                            |                                             |                                                                                             |
-| Data processing                                       |                                                                                            |                                             |                                                                                             |
-| Cleaning, imputation, etc.                            |                                                                                            |                                             |                                                                                             |
-| Sources of error                                      |                                                                                            |                                             |                                                                                             |
-| Limitations, known biases                             |                                                                                            |                                             |                                                                                             |
-| Citation                                              |                                                                                            |                                             |                                                                                             |
-| Links to any documentation or additional sources used |                                                                                            |                                             |                                                                                             |
+# Data Documentation Comparison Worksheet
+
+| Feature                    | Canadian General Social Survey (2018) | Canadian Election Study (2019)             | Trophic Niche Flexibility (Glossophaga soricina) |
+| -------------------------- | ------------------------------------- | ------------------------------------------ | ------------------------------------------------ |
+| Sample type                | Probability Sample                    | Online Convenience Sample                  | Convenience Sample                               |
+| Sample size                | 20,000                                | 2,000                                      | 150                                              |
+| Target population          | Canadians aged 15+                    | Canadian voters                            | Glossophaga soricina bats                        |
+| Sampling frame             | Canadian households                   | Eligible voters                            | Captive and wild Glossophaga soricina            |
+| Survey mode(s)             | Online and face-to-face interviews    | Online                                     | Field observation and lab analysis               |
+| Timeline                   | February 2018 - October 2018          | September 2019                             | 2019                                             |
+| Response rate              | 65%                                   | 30%                                        | Not applicable                                   |
+| Weights                    | Provided                              | Provided                                   | Not mentioned                                    |
+| Data processing            | Cleaning, recoding                    | Data validation                            | Data normalization                               |
+| Cleaning, imputation, etc. | Imputation for missing values         | Not mentioned                              | Not required                                     |
+| Sources of error           | Non-response, sampling error          | Sampling bias                              | Measurement error                                |
+| Limitations, known biases  | Underrepresentation of certain groups | Overrepresentation of certain demographics | Sampling limited to certain regions              |
+| Citation                   | Statistics Canada (2018)              | Stephenson et al. (2019)                   | Clare et al. (2019)                              |
+| Links to any documentation | [Link to StatsCan](https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=4430) | [Link to CES](https://ces-eec.arts.ubc.ca/2019-canadian-election-study/) | [Link to Article](https://scholar.google.com)    |
+
+
+
+
+
 
 ## Criteria
 
